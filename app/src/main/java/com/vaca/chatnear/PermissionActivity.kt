@@ -12,7 +12,7 @@ import android.provider.Settings
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.vaca.modifiId.R
+
 
 
 class PermissionActivity : AppCompatActivity() {
